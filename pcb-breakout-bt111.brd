@@ -154,6 +154,10 @@
 Rev 1 (Nov 2015)
 Algo Access Pte Ltd
 Designer: Yeo Kheng Meng</text>
+<text x="1.1" y="7.6" size="0.8128" layer="21" rot="R90">1</text>
+<text x="23.6" y="8.1" size="0.8128" layer="21" rot="R90">10</text>
+<text x="31.84" y="19.88" size="0.8128" layer="21" rot="R90">11</text>
+<text x="6.52" y="20.72" size="0.8128" layer="21" rot="R90">21</text>
 </plain>
 <libraries>
 <library name="sf-bluegiga">
